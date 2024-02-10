@@ -1,15 +1,15 @@
-Jaleel
+# Jaleel
 
-Education
+## Education
 - Computer Science and Artificial Intelligence, Btech | IIIT Delhi
 
-Experience
+## Experience
+
+## Projects
 
 
-Projects
+## Publications
 
 
-Publications
-
-
-Skills: Python, C++
+## Skills
+- Python, C++
