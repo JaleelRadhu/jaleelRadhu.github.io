@@ -1,4 +1,4 @@
-# Jaleel
+I am a 2nd-year student of Computer Science currently studying at IIIT Delhi. I am interested in ML.
 
 
 ## Education
